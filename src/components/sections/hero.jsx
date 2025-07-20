@@ -20,10 +20,26 @@ const Hero = () => {
 
                                 <div className="about-social text-center">
                                     <ul>
-                                        <li><Link href="https://www.facebook.com/hamza.burhan.90"><RiFacebookCircleFill size={20} /></Link></li>
-                                        <li><Link href="https://x.com/HBurhan70941"><RiTwitterXLine size={20} /></Link></li>
-                                        <li><Link href="https://www.linkedin.com/in/hamza-burhan-57223516b/"><RiLinkedinFill size={20} /></Link></li>
-                                        <li><Link href="https://github.com/hamza-burhan"><RiGithubLine size={20} /></Link></li>
+                                        <li>
+                                            <a href="https://www.facebook.com/hamza.burhan.90" target="_blank" rel="noopener noreferrer">
+                                                <RiFacebookCircleFill size={20} />
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="https://x.com/HBurhan70941" target="_blank" rel="noopener noreferrer">
+                                                <RiTwitterXLine size={20} />
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.linkedin.com/in/hamza-burhan-57223516b/" target="_blank" rel="noopener noreferrer">
+                                                <RiLinkedinFill size={20} />
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="https://github.com/hamza-burhan" target="_blank" rel="noopener noreferrer">
+                                                <RiGithubLine size={20} />
+                                            </a>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>

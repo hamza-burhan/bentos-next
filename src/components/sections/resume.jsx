@@ -13,9 +13,9 @@ const Resume = () => {
                             <div className="single-resume">
                                 <h2>Experience</h2>
                                 <div className="experience-list">
-                                    <Card year={'2021 - Present'} title={'Web Designer'} institution={'Themeforest Market '} />
-                                    <Card year={'2021 - 2023'} title={'Marketing Expert GRP'} institution={'Envato Theme Developer'} />
-                                    <Card year={'2021 - 2022'} title={'Web Designer'} institution={'Web Developer & Business Partner'} />
+                                    <Card year={'2024 - Present'} title={'Senior Front-End Developer'} institution={'Clarisync'} />
+                                    <Card year={'2022 - 2024'} title={'Softewere Engineer'} institution={'Burjsoft'} />
+                                    <Card year={'2020 - 2022'} title={'Web Designer'} institution={'VentureTech'} />
                                 </div>
                             </div>
                         </div>
@@ -25,9 +25,9 @@ const Resume = () => {
                             <div className="experience-list">
                                 <div className="single-resume">
                                     <h2>Education</h2>
-                                    <Card year={'2013 - 2015'} title={'Bachelor Degree of Information Technology'} institution={'State University bangladesh'} />
-                                    <Card year={'2021 - 2024'} title={'Higher secoundery Education'} institution={'Premium College United VC'} />
-                                    <Card year={'2020 - 2021'} title={'UI/UX Design'} institution={'Webster College'} />
+                                    <Card year={'2019 - 2023'} title={'Bachelor Degree of Computer Science'} institution={'NFC(IET) Multan'} />
+                                    <Card year={'2016 - 2019'} title={'Higher secoundery Education'} institution={'Britain College'} />
+                                    <Card year={'2015 - 2016'} title={'Matriculation'} institution={'Aims'} />
                                 </div>
                             </div>
                         </div>
